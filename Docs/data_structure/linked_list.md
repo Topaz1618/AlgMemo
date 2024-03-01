@@ -21,14 +21,14 @@
 ### [remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
     给定一个排序链表，删除所有重复的元素，使得每个元素只出现一次。
 
-   ```python
+   ```
     pass
    ```
 ### [remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
     给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中   没有重复出现的数字。
     思路：链表头结点可能被删除，所以用 dummy node 辅助删除
 
-   ```python
+   ```
     pass
    ```
 
@@ -38,7 +38,7 @@
 
     思路：用一个 prev 节点保存向前指针，temp 保存向后的临时指针
 
-   ```python
+   ```
     pass
    ```
 
@@ -48,7 +48,7 @@
 
     思路：先遍历到 m 处，翻转，再拼接后续，注意指针处理
 
-   ```python
+   ```
     pass
    ```
 
@@ -57,7 +57,7 @@
     将两个升序链表合并为一个新的升序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
 
     思路：通过 dummy node 链表，连接各个元素
-   ```python
+   ```
     pass
    ```
 
@@ -68,7 +68,7 @@
 
     思路：将大于 x 的节点，放到另外一个链表，最后连接这两个链表
 
-   ```python
+   ```
     pass
    ```
 
@@ -79,7 +79,7 @@
 
     思路：归并排序，找中点和合并操作
 
-   ```python
+   ```
     pass
    ```
 
@@ -97,7 +97,7 @@
     思路：找到中点断开，翻转后面部分，然后合并前后两个链表
 
 
-   ```python
+   ```
     pass
    ```
 
@@ -109,7 +109,7 @@
     ![fast_slow_linked_list](https://img.fuiboom.com/img/fast_slow_linked_list.png)
 
 
-   ```python
+   ```
     pass
    ```
 
@@ -121,7 +121,7 @@
     ![cycled_linked_list](https://img.fuiboom.com/img/cycled_linked_list.png)
 
 
-   ```python
+   ```
     pass
    ```
 
@@ -132,7 +132,7 @@
     另外一种方式是 fast=head,slow=head
 
 
-   ```python
+   ```
     pass
    ```
 
@@ -143,7 +143,7 @@
 
 ### [palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/)
     请判断一个链表是否为回文链表。
-   ```python
+   ```
     pass
    ```
 
@@ -154,7 +154,7 @@
 
     思路：1、hash 表存储指针，2、复制节点跟在原节点后面
 
-   ```python
+   ```
     pass
    ```
 
