@@ -18,3 +18,9 @@
 - [滑动窗口思想](./Docs/advanced_algorithm/slide_window.md)
 - [二叉搜索树](./Docs/advanced_algorithm/binary_search_tree.md)
 - [回溯法](./Docs/advanced_algorithm/backtrack.md)
+
+
+### 常见工厂方法篇 🐭
+- [简单工厂方法 (Simple Factory Method)](./Docs/basic_algorithm/binary_search.md)
+- [静态工厂方法 (Static Factory Method)](./Docs/basic_algorithm/sort.md)
+- [抽象工厂方法 (Abstract Factory Method)](./Docs/basic_algorithm/dp.md)
